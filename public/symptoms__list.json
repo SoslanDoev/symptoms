@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Боли в груди",
+    "active": false
+  }, 
+  {
+    "title": "Температура", 
+    "active": false
+  }, 
+  {
+    "title": "Кашель",
+    "active": false
+  }, 
+  {
+    "title": "Озноб",
+    "active": false
+  }, 
+  {
+    "title": "Слабость",
+    "active": false
+  }, 
+  {
+    "title": "Недомогание",
+    "active": false
+  }, 
+  {
+    "title": "Головные боли",
+    "active": false
+  }, 
+  {
+    "title": "Ломота в теле",
+    "active": false
+  }, 
+  {
+    "title": "Утомляемость",
+    "active": false
+  }, 
+  {
+    "title": "боли в мышцах и суставах",
+    "active": false
+  }, 
+  {
+    "title": "Тошнота",
+    "active": false
+  }, 
+  {
+    "title": "Боли в животе",
+    "active": false
+  }, 
+  {
+    "title": "Сухость во рту",
+    "active": false
+  }, 
+  {
+    "title": "Обложенный язык",
+    "active": false
+  }, 
+  {
+    "title": "Отсутсвие аппетита",
+    "active": false
+  }, 
+  {
+    "title": "Боль в правой нижней части живота",
+    "active": false
+  }, 
+  {
+    "title": "Рвота",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение стула",
+    "active": false
+  }, 
+  {
+    "title": "Заложенность носа",
+    "active": false
+  }, 
+  {
+    "title": "Слезотечение",
+    "active": false
+  }, 
+  {
+    "title": "Зуд",
+    "active": false
+  }, 
+  {
+    "title": "Чихание",
+    "active": false
+  }, 
+  {
+    "title": "Затруднение дыхания",
+    "active": false
+  }, 
+  {
+    "title": "Покраснение",
+    "active": false
+  }, 
+  {
+    "title": "Головокружение",
+    "active": false
+  }, 
+  {
+    "title": "Холодные руки",
+    "active": false
+  }, 
+  {
+    "title": "Холодные ноги",
+    "active": false
+  }, 
+  {
+    "title": "Учащенное сердцебиение",
+    "active": false
+  }, 
+  {
+    "title": "Одышка",
+    "active": false
+  }, 
+  {
+    "title": "Cвистящие хрипы",
+    "active": false
+  }, 
+  {
+    "title": "Хрипы",
+    "active": false
+  }, 
+  {
+    "title": "Чувство сдавленности в грудной клетке", 
+    "active": false
+  }, 
+  {
+    "title": "Насморк", 
+    "active": false
+  }, 
+  {
+    "title": "Боли в глазах", 
+    "active": false
+  }, 
+  {
+    "title": "Ринорея", 
+    "active": false
+  }, 
+  {
+    "title": "Боли в горле", 
+    "active": false
+  }, 
+  {
+    "title": "Потеря сознания", 
+    "active": false
+  }, 
+  {
+    "title": "Редкий пульс",
+    "active": false
+  }, 
+  {
+    "title": "Спутанность сознания",
+    "active": false
+  }, 
+  {
+    "title": "Боль в боку",
+    "active": false
+  }, 
+  {
+    "title": "Сухой кашель",
+    "active": false
+  }, 
+  {
+    "title": "Кашель с мокротой",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение речи",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение мимики",
+    "active": false
+  }, 
+  {
+    "title": "Онемение лица",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение ориентации",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение слуха",
+    "active": false
+  }, 
+  {
+    "title": "Нарушение зрения",
+    "active": false
+  }
+]
